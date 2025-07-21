@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset folder (raw or large files)
+dataset/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Local environment variables or config
+.env
+.env.*
+
+# Output files
+*.out
