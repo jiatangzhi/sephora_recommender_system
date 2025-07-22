@@ -2,6 +2,15 @@
 
 A personalized beauty product recommender system powered by product metadata and user reviews from Sephora. Built with a focus on both user experience and data-driven insights.
 
+## 📦 Data Source
+
+This project uses publicly available data from [Kaggle – Sephora Products and Skincare Reviews](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews).
+
+- Over **8,000 beauty products** from the Sephora online store, including product names, brands, categories, prices, ingredients, ratings, and features.
+- Around **1 million user reviews** on **2,000+ skincare products**, including user profile data (e.g., skin type, tone, hair color) and community ratings on helpfulness.
+
+This dataset was key to building a personalized recommender system for skincare and beauty products.
+
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
